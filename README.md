@@ -1,4 +1,6 @@
 # AlgoBox v1--C
+![Build](https://github.com/NotGoodAtC-wow/algobox-v1--C/actions/workflows/cmake.yml/badge.svg)
+
 
 A small educational library of simple algorithms written in **C**.  
 Built with **CMake**, tested using standard `assert`-based unit tests.
